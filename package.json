@@ -1,0 +1,27 @@
+{
+  "name": "pervonah",
+  "version": "1.0.0",
+  "description": "Твои одноклассники обязательно оценят, что ты написал первым комментарий в свой любимый паблик с мемами.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/PervhoNah.git"
+  },
+  "keywords": [
+    "vk",
+    "idiots",
+    "social"
+  ],
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/PervhoNah/issues"
+  },
+  "homepage": "https://github.com/bifot/PervhoNah#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
